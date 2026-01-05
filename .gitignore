@@ -9,7 +9,6 @@ env/
 .env
 
 # Project Specific - IMPORTANTE
-# Ignoramos la carpeta de salida (no queremos subir MP3s con copyright)
 audio/
 
 # Ignoramos el historial de descargas local (es estado local del usuario)
