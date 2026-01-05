@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Project Specific - IMPORTANTE
+# Ignoramos la carpeta de salida (no queremos subir MP3s con copyright)
+audio/
+
+# Ignoramos el historial de descargas local (es estado local del usuario)
+download_history.txt
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
